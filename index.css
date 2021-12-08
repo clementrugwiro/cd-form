@@ -1,6 +1,7 @@
 body{
     padding-top: 0;
     background-color: rgb(235, 230, 230);
+    color: black;
 }
 .main-sec{
     display:grid;
@@ -12,6 +13,10 @@ body{
     padding-right:48px;
     padding-top: 36px;
 }
+a{
+    text-decoration: none;
+}
+
 
 .sec1{
     display: flex;
